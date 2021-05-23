@@ -1,2 +1,2 @@
-# onePiece
-This project is based on the don't know Hola Project.
+# PROJECT
+This project is based on pure HTML , CSS and javaScript 
